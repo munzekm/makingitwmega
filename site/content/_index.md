@@ -1,6 +1,6 @@
 ---
 title: "Making it with Mega"
-subtitle: A cooking blog to share recipes with everyone!
+subtitle: A cooking blog to share recipes
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Welcome to my cooking blog.
@@ -15,10 +15,5 @@ products:
       text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
 values:
     heading: Our values
-    text: Coming to college I have realized that I needed to learn more about
-    cooking and b I was never fully interested in baking and cooking until
-    my junior year when I had 4 other roommates. Two of them loved to cook, so
-    I thought I would give it a shot and try it out. They taught me so much about
-    cooking and many different recipes.
-
+    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
 ---
