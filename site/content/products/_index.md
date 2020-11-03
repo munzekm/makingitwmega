@@ -9,15 +9,25 @@ description: >-
 intro:
   blurbs:
     - image: /img/pizza.jpg
-      heading: Pizza and Wings
+      heading: Homemade Pizza
       text: >
-        Homemade Pizza and Wings are very easy to make.
+        Homemade Pizza is very easy to make.
         First you can either buy dough from the store or you can make your own dough.
         Make sure you get enough dough for the amount of people you are making it
         for. You also want to buy your toppings and sauce for your pizza. The
         first pizza in the picture has pepperoni, cheese and red sauce. The second
-        pizza has pesto and cheese. 
-    - image: /img/illustrations-coffee-gear.svg
+        pizza has pesto and cheese.
+        - Preheat the oven to 350 degrees (Pizza)
+        - Prep your pizza
+        - Add sauce
+        - Add cheese
+        - Add other toppings
+        - Once oven gets tp 350 degrees you can put your pizza in.
+        - Let cook for around 15 minutes (This depends on if you create your own
+          dough or you buy one from the store.)
+        - Enjoy after it looks cooked and crispy.
+        -Preheat 425 degrees (wings)
+    - image: /img/wings.jpg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
