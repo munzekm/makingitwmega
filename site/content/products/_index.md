@@ -17,11 +17,16 @@ intro:
         for. You also want to buy your toppings and sauce for your pizza. The
         first pizza in the picture has pepperoni, cheese and red sauce. The second
         pizza has pesto and cheese.
-        - Preheat the oven to 350 degrees (Pizza)
+        - Preheat the oven to 350 degrees
+        >
         - Prep your pizza
+        >
         - Add sauce
+        >
         - Add cheese
+        >
         - Add other toppings
+        >
         - Once oven gets tp 350 degrees you can put your pizza in.
         - Let cook for around 15 minutes (This depends on if you create your own
           dough or you buy one from the store.)
@@ -29,10 +34,15 @@ intro:
         -Preheat 425 degrees (wings)
     - image: /img/wings.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Wings are always good for a fun get together or a appetizer!
+        First you want to buy chicken from the store. Whether its wings or breasts
+        you want to make sure you clean them very well. Next you can buy a seasoning
+        or flavor you would like your wings to be. In the picture me and my roomates
+        chose buffalo sauce. The sauce was made with franks red hot and butter.
+        We Preheated the oven to 425 degrees. Then we cooked the wings without
+        the sauce on. Make sure you cook the wings until they are fully done.
+        They should cook around 40 minutes. Then take them out and spread the
+        sauce or seasonal on them to enjoy.
     - image: /img/illustrations-tutorials.svg
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
