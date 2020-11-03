@@ -1,14 +1,15 @@
 ---
 title: "Making it with Mega"
 subtitle: A cooking blog to share recipes
-image: /img/roomie.jpg
+image: /img/cooking.jpg
 blurb:
     heading: Welcome to my cooking blog!
     text: "Making it with Mega is a cooking blog that has maybe different recipes.
     I hope to share these recipes with everyone to give others ideas when cooking."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "Explore the recipes"
+    text: "Here are recipes that you can try yourself and let us know if it worked
+    well for you."
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
