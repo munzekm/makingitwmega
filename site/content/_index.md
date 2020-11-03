@@ -16,8 +16,8 @@ products:
       text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
 values:
     heading: My story
-    text: Coming to college I have realized that I needed to learn how to cook real
-    meals for myself. I was never fully interested in baking and cooking until
+    text: Coming to college I have realized that I needed to learn more about
+    cooking and baking. I was never fully interested in baking and cooking until
     my junior year when I had 4 other roommates. Two of them loved to cook, so
     I thought I would give it a shot and try it out. They taught me so much about
     cooking and many different recipes.
