@@ -15,7 +15,6 @@ products:
       text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
 values:
     heading: Our values
-    - image: /img/roomie.jpg
     text: Coming to college I have realized that I needed to learn more about
     cooking and b I was never fully interested in baking and cooking until
     my junior year when I had 4 other roommates. Two of them loved to cook, so
