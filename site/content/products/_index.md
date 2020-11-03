@@ -3,7 +3,7 @@ title: Recipes
 type: products
 image: /img/cooking2.jpeg
 heading: Enjoy!
-description: >-
+description: >
   This is where you can view all the recipes that I have added to the page. Go
   ahead and try them out and add feedback to what you think!
 intro:
@@ -18,15 +18,10 @@ intro:
         first pizza in the picture has pepperoni, cheese and red sauce. The second
         pizza has pesto and cheese.
         - Preheat the oven to 350 degrees
-        >
         - Prep your pizza
-        >
         - Add sauce
-        >
         - Add cheese
-        >
         - Add other toppings
-        >
         - Once oven gets tp 350 degrees you can put your pizza in.
         - Let cook for around 15 minutes (This depends on if you create your own
           dough or you buy one from the store.)
@@ -37,13 +32,13 @@ intro:
         Wings are always good for a fun get together or a appetizer!
         First you want to buy chicken from the store. Whether its wings or breasts
         you want to make sure you clean them very well. Next you can buy a seasoning
-        or flavor you would like your wings to be. In the picture me and my roomates
+        or flavor you would like your wings to be. In the picture me and my roommates
         chose buffalo sauce. The sauce was made with franks red hot and butter.
         We Preheated the oven to 425 degrees. Then we cooked the wings without
         the sauce on. Make sure you cook the wings until they are fully done.
         They should cook around 40 minutes. Then take them out and spread the
         sauce or seasonal on them to enjoy.
-    - image: /img/illustrations-tutorials.svg
+    - image: /img/Stirfry.jpg
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
