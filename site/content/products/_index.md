@@ -2,15 +2,13 @@
 title: Recipes
 type: products
 image: /img/cooking2.jpeg
-heading: What we offer
+heading: Enjoy!
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  This is where you can view all the recipes that I have added to the page. Go
+  ahead and try them out and add feedback to what you think!
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/pizza.jpg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
