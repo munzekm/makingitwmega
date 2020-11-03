@@ -1,7 +1,7 @@
 ---
 title: "Making it with Mega"
 subtitle: A cooking blog to share recipes
-image: /img/home-jumbotron.jpg
+image: /img/roomie.jpg
 blurb:
     heading: Welcome to my cooking blog!
     text: "Making it with Mega is a cooking blog that has maybe different recipes.
