@@ -5,7 +5,7 @@ contact_entries:
   - heading: Location
     text: "Allegheny College"
   - heading: Share you input
-    text: ""
+    text: "woah"
 ---
 
 We’d love to get in touch with you and hear about your recipes and
