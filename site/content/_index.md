@@ -12,8 +12,5 @@ intro:
     well for you."
 values:
     heading: My Story
-    text: The reason why I have decided to make a cooking blog was because,
-    going into my junior year of high school I lived in an apartment with 4 other
-    students. Two of them loved to cook, so we decided to make meals almost every
-    weekend. Me not knowing a lot about cooking, decided to join them.
+    text: 
 ---
