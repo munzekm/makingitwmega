@@ -10,8 +10,10 @@ intro:
     heading: "Explore the recipes"
     text: "Here are recipes that you can try yourself and let us know if it worked
     well for you."
-    image: /img/cookpage.jpg
 values:
     heading: My Story
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: The reason why I have decided to make a cooking blog was because,
+    going into my junior year of high school I lived in an apartment with 4 other
+    students. Two of them loved to cook, so we decided to make meals almost every
+    weekend. Me not knowing a lot about cooking, decided to join them.
 ---
