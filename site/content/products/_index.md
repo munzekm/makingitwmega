@@ -26,7 +26,6 @@ intro:
         - Let cook for around 15 minutes (This depends on if you create your own
           dough or you buy one from the store.)
         - Enjoy after it looks cooked and crispy.
-        -Preheat 425 degrees (wings)
     - image: /img/wings.jpg
       text: >
         Wings are always good for a fun get together or a appetizer!
