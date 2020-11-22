@@ -10,6 +10,7 @@ intro:
     heading: "Explore the recipes"
     text: "Here are recipes that you can try yourself and let us know if it worked
     well for you."
+    image: /img/cookpage.jpg
 values:
     heading: My Story
     text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
