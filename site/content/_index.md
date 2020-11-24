@@ -12,5 +12,5 @@ intro:
     well for you."
 values:
     heading: My Story
-    text: 
+    text: "I am currently a student at Allegheny College."
 ---
