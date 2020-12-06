@@ -43,10 +43,11 @@ intro:
         up to a perfect size then continue to mix until vegetables and rice are
         fried. You add any sauce you would like. I believe we added soy sauce and
         sweet and sour.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        Mac n cheese
     - image: /img/mac.jpeg
+      text: >
+        Mac n cheese. First you want to boil water to cook the noodles. Most
+        people use shells or little noodles for mac n cheese.
+    - image: /img/cajun.jpeg
       text: >
         Cajun Shrimp Pasta. First you want to turn on your water for your pasta
         so it can start to boil while you work on the sauce and the shrimp.
