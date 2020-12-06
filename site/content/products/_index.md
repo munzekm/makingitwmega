@@ -46,6 +46,19 @@ intro:
     - image: /img/illustrations-meeting-space.svg
       text: >
         Mac n cheese
+    - image: /img/mac.jpeg
+      text: >
+        Cajun Shrimp Pasta. First you want to turn on your water for your pasta
+        so it can start to boil while you work on the sauce and the shrimp.
+        Next for the sauce, you need 1/2 stick of butter, 1 1/4 cup of chicken
+        broth, 1 1/4 cup of milk, 1 1/4 cup of whipping cream, and 1/4 flour.
+        You can add old bay to your sauce, add as much as you want.
+        Add them all together in a pan and stir occasionally. Keep on medium until
+        it starts to get thick and bubble. Next, you want to put your shrimp on
+        a pan and cook until shrimp turn pink. Once your water is done boiling,
+        add you noodles and cook until noodles are soft. Then, drain your noodles,
+        and mix the shrimp and sauce together. You can also add broccoli to the
+        pasta for another taste.
   description: >
     Here is where you can explore all the recipes. All the instructions are down
     under the photo of the meal. Follow along to make your own!
