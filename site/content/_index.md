@@ -11,6 +11,6 @@ intro:
     text: "Here are recipes that you can try yourself and let us know if it worked
     well for you."
 values:
-    heading: My Story
+    heading: My Story:)
     text: ""
 ---
