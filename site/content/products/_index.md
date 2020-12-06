@@ -46,7 +46,14 @@ intro:
     - image: /img/mac.jpeg
       text: >
         Mac n cheese. First you want to boil water to cook the noodles. Most
-        people use shells or little noodles for mac n cheese.
+        people use shells or little noodles for mac n cheese. Once water is boiling
+        add the noodles until soft. Next I made homemade cheese sauce. First you
+        want around 1/4 cup of butter in a pan. Then 1/4
+        flour add to the pan. Next you want to slowly mix the flour with the
+        butter and add 2 cups of milk. Then you c an add your cheese (whatever kind
+        you want to use) and mix until cheese is melted. The mac and cheese I made
+        had little pieces of crispy bacon. You can add whatever you would like.
+        Mix cheese and noodles together and it will be ready to serve.
     - image: /img/cajun.jpeg
       text: >
         Cajun Shrimp Pasta. First you want to turn on your water for your pasta
@@ -75,15 +82,7 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
