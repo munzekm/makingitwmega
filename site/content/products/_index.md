@@ -76,49 +76,15 @@ intro:
        in your salad. Celery, peppers, and hard boiled eggs. Next you need to
        add mayonnaise. Mix all the ingredients together then you have yourself
        macaroni salad.
+    - image: /img/chicken.jpeg
+      text: >
+        Barbeque chicken. First you want to clean the chicken before you
+        put it on the grill. Next you want to cook it until its not pink inside
+        and looks crispy. Next you want to make the Barbeque sauce. You want to
+        put a pan on the stove with ketchup and soy sauce. You can decide on the
+        amount of each. Next you can add some salt and pepper to the mix as well.
+        Next you want to spread it on the chicken and enjoy!
   description: >
     Here is where you can explore all the recipes. All the instructions are down
     under the photo of the meal. Follow along to make your own!
-main:
-  heading:
-  description: >
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
-
-full_image: /img/products-full-width.jpg
-pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
 ---
