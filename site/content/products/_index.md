@@ -67,6 +67,15 @@ intro:
         add you noodles and cook until noodles are soft. Then, drain your noodles,
         and mix the shrimp and sauce together. You can also add broccoli to the
         pasta for another taste.
+    - image: /img/salad.jpeg
+      text: >
+       Macaroni salad. First you want to boil water in a pot for the noodles.
+       You want to use small elbow noodles for this type of salad. Wait until
+       the water is at a boil to add the noodle to the water. After noodles
+       are cooked, drain them. Next you want to cut up everything that you want
+       in your salad. Celery, peppers, and hard boiled eggs. Next you need to
+       add mayonnaise. Mix all the ingredients together then you have yourself
+       macaroni salad.
   description: >
     Here is where you can explore all the recipes. All the instructions are down
     under the photo of the meal. Follow along to make your own!
