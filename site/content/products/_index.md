@@ -1,6 +1,6 @@
 ---
 title: Recipes
-type: Recipes
+type: products
 image: /img/cooking2.jpeg
 heading: Enjoy!
 description: >
