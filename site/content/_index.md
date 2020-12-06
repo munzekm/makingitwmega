@@ -12,7 +12,6 @@ intro:
     well for you."
 values:
     heading: My Story
-    - image: /img/wings.jpg
     text: "I am currently a junior at Allegheny College. Coming into college,
     I was not really a big cooking person. When I moved in with my roommates, two
     of them were constantly cooking. I thought I would give it a try. Anytime
