@@ -23,6 +23,7 @@ intro:
         dough or you buy one from the store.)
         Enjoy after it looks cooked and crispy.
     - image: /img/wings.jpg
+      heading: Wings
       text: >
         Wings are always good for a fun get together or a appetizer!
         First you want to buy chicken from the store. Whether its wings or breasts
