@@ -1,8 +1,8 @@
 ---
-title: "Recipes"
+title: "Snacks"
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Homemade Pizza"
+  - heading: "Shade-grown coffee"
     text: >
       Coffee is a small tree or shrub that grows in the forest
       understory in its wild form, and traditionally was grown
@@ -10,7 +10,7 @@ values:
       forest-like structure of shade coffee farms provides habitat for
       a great number of migratory and resident species.
     imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Wings"
+  - heading: "Single origin"
     text: >
       Single-origin coffee is coffee grown within a single known
       geographic origin. Sometimes, this is a single farm or a
