@@ -16,16 +16,12 @@ intro:
         Make sure you get enough dough for the amount of people you are making it
         for. You also want to buy your toppings and sauce for your pizza. The
         first pizza in the picture has pepperoni, cheese and red sauce. The second
-        pizza has pesto and cheese.
-        - Preheat the oven to 350 degrees
-        - Prep your pizza
-        - Add sauce
-        - Add cheese
-        - Add other toppings
-        - Once oven gets tp 350 degrees you can put your pizza in.
-        - Let cook for around 15 minutes (This depends on if you create your own
-          dough or you buy one from the store.)
-        - Enjoy after it looks cooked and crispy.
+        pizza has pesto and cheese. Preheat the oven to 350 degrees. Prep your pizza.
+        Add sauce. Add cheese. Add other toppings.
+        Once oven gets tp 350 degrees you can put your pizza in.
+        Let cook for around 15 minutes (This depends on if you create your own
+        dough or you buy one from the store.)
+        Enjoy after it looks cooked and crispy.
     - image: /img/wings.jpg
       text: >
         Wings are always good for a fun get together or a appetizer!
@@ -39,7 +35,14 @@ intro:
         sauce or seasonal on them to enjoy.
     - image: /img/Stirfry.jpg
       text: >
-        Stir Fry recipes
+        Stir Fry can contain many different things that you enjoy. In the Stir
+        Fry above there are a variety of vegetables and rice. You want to start
+        with a pan and a little bit of oil on the stove. Then add your rice. Could
+        be any type of rice you would like. Then add your vegetables, I added
+        edamame, carrots, broccoli, onions, and peas. You cut all the vegetables
+        up to a perfect size then continue to mix until vegetables and rice are
+        fried. You add any sauce you would like. I believe we added soy sauce and
+        sweet and sour.
     - image: /img/illustrations-meeting-space.svg
       text: >
         Mac n cheese
