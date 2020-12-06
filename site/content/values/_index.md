@@ -2,13 +2,14 @@
 title: "My Story"
 image: /img/kitchen.png
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "About my story"
     text: >
-      hiya is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/myself.jpeg"
+      I am currently a junior at Allegheny College. Coming into college,
+      I was not really a big cooking person. When I moved in with my roommates, two
+      of them were constantly cooking. I thought I would give it a try. Anytime
+      they were cooking they would let me help. When I had to come up with a
+      web site idea, I thought it would be a great idea to share my recipes that
+      I have learned to make on my own!"
+    imageUrl: "/img/makingit.png"
 
 ---
