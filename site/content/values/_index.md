@@ -9,7 +9,7 @@ values:
       of them were constantly cooking. I thought I would give it a try. Anytime
       they were cooking they would let me help. When I had to come up with a
       web site idea, I thought it would be a great idea to share my recipes that
-      I have learned to make on my own!"
-    imageUrl: "/img/makingit.png"
+      I have learned to make on my own! Hope you enjoy!"
+    imageUrl: "/img/wmega.png"
 
 ---
