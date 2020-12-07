@@ -87,9 +87,7 @@ intro:
         Next you want to spread it on the chicken and enjoy!
     - image: /img/curry.jpeg
           text: >
-            Masala tofu curry.
-          text: >
-            First you want to cut up all the vegetables you
+            Masala tofu curry. First you want to cut up all the vegetables you
             would like to have in your curry. Start boiling rice in a pot.
             In this I have broccoli, peas, onions, zucchini, mushrooms, ginger,
             garlic and carrots. You want
@@ -98,7 +96,19 @@ intro:
             rice and eat!
     - image: /img/brussel.jpeg
           text: >
-            Brussel Sprouts.
+            Brussel Sprouts. First you want to cut up all your Brussel sprouts
+            in half so they cook better. Then put them on a pan to put in the
+            oven. I put onions and a little bit of seasoning so they would
+            taste a little better. You may want to put olive oil on them as well.
+            Cook until crispy or done. then Enjoy!
+    - image: /img/bru.jpeg
+          text: >
+            Bruschetta. First, you can choose any toast or bread you would like
+            to put bruschetta on. I cut up little cherry tomatoes then I chopped
+            up some basil and garlic. You should mix these ingredients all together.
+            Add some balsamic vinegar, only about a tablespoon. Then add olive oil
+            and some salt and pepper. You can then mix it up and spread on some
+            bread!
   description: >
     Here is where you can explore all the recipes. All the instructions are down
     under the photo of the meal. Follow along to make your own!
