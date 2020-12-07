@@ -85,15 +85,6 @@ intro:
         put a pan on the stove with ketchup and soy sauce. You can decide on the
         amount of each. Next you can add some salt and pepper to the mix as well.
         Next you want to spread it on the chicken and enjoy!
-    - image: /img/curry.jpeg
-          text: >
-            Masala tofu curry. First you want to cut up all the vegetables you
-            would like to have in your curry. Start boiling rice in a pot.
-            In this I have broccoli, peas, onions, zucchini, mushrooms, ginger,
-            garlic and carrots. You want
-            to stir fry the veggies then, steam them for a little. Add curry pasta
-            and coconut oil to the veggies in the pan. Then you can put it over
-            rice and eat!
   description: >
     Here is where you can explore all the recipes. All the instructions are down
     under the photo of the meal. Follow along to make your own!
