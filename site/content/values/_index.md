@@ -10,6 +10,6 @@ values:
       they were cooking they would let me help. When I had to come up with a
       web site idea, I thought it would be a great idea to share my recipes that
       I have learned to make on my own! Hope you enjoy!"
-    imageUrl: "/img/wmega.png"
+    imageUrl: "/img/wmega.jpeg"
 
 ---
