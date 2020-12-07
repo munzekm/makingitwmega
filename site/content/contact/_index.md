@@ -9,9 +9,8 @@ contact_entries:
 ---
 
 We’d love to get in touch with you and hear about your recipes and
-what I can improve on. We strive to grow and improve constantly and your feedback
-is valuable for us.
+what I can improve on. 
 
 Email me @ megan.munzek14@gmail.com
 
-Hope you enjoyed my cooking blog! 
+Hope you enjoyed my cooking blog!
