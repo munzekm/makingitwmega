@@ -2,7 +2,7 @@
 title: "Contact"
 logo: "/img/logo.svg"
 contact_entries:
-  - heading: Share you input about the website
+  - heading: 
     text: "Let me know if you have tried the recipes!"
 ---
 
