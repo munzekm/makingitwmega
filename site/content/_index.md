@@ -12,5 +12,4 @@ intro:
     well for you."
 values:
     heading: My Story:)
-    text: ""
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "/img/header.png"
 contact_entries:
-  - heading: 
+  - heading:
     text: "Let me know if you have tried the recipes!"
 ---
 
